@@ -1,8 +1,0 @@
----
-title: "Katherine Lockard"
-author: "Katherine"
-date: "7/12/2021"
-output: html_document
----
-
-### Hi! My name is Katherine Lockard. I am from Arlington, TX and graduated from Texas A&M University with a B.S. in Biomedical Sciences. In my free time, I like to spend time with my horses and dogs, go to the gym, and try new foods!
